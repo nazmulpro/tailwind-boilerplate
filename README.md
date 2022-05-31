@@ -27,5 +27,8 @@ npm run build
 npm run preview
 ```
 
+### demo
+
+https://tailwind-vite-boilerplate.netlify.app/
 
 
